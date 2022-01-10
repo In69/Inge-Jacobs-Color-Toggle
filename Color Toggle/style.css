@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(133, 131, 131);
+}
+
+li{
+    list-style: none;
+    padding: 20px;
+    width: 200px;
+    margin: 0;
+}
+
+.menu{
+    visibility: hidden;
+    padding: 0;
+}
+
+.burger{
+    cursor: pointer;
+}
+
+.visible{
+    visibility: visible;
+}
+
+.grey{
+    background-color: rgb(133, 131, 131);
+}
+
+.red{
+    background-color: rgb(129, 9, 9);
+}
+
+.yellow{
+    background-color: rgb(209, 209, 6);
+}
+
+.blue{
+    background-color: rgb(3, 3, 117);
+}
+
+.orange{
+    background-color: rgb(216, 145, 12);
+}
+
+.green{
+    background-color: rgb(3, 51, 3);
+}
